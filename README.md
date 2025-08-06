@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shafquetnaghmi
-- 👀 I’m interested in python ,django ,Reactjs 
+- 👀 I’m interested in Javascript ,Reactjs, express 
 - 🌱 I’m currently learning everything that interests me 
-- 💞️ I’m looking to collaborate on django
+- 💞️ I’m looking to collaborate on Reactjs
 - 📫 How to reach me naghmishafquet@gmail.com
 
 <!---
